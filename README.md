@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my page. I'm Prabhu Appu. I'm a fullstack developer from Coimbatore, Tamilnadu, India.
+
+I have worked on below technologies,
+
+&#xea73;
+
 <!--
 **PrabhuAppu/PrabhuAppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
